@@ -1,0 +1,1 @@
+{"name":"Local: FCFS-1","url":"d:\\Slides\\7th Semester\\Operating System\\OS Codes\\FCFS-1.cpp","tests":[{"id":1729872141816,"input":"Waiting Time:\n0 24 27 \nTurn Around Time:\n24 27 30 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Slides\\7th Semester\\Operating System\\OS Codes\\FCFS-1.cpp","group":"local","local":true}
