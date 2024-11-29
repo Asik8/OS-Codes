@@ -20,6 +20,13 @@ class Process{
         }
 };
 
+class com2{
+    public:
+        bool operator()(Process a,Process b){
+            return a.
+        }
+};
+
 bool cmp(Process a,Process b){
     if(a.at == b.at) return a.priority>b.priority;
     return a.at<b.at;
